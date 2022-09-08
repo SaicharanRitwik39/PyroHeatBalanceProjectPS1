@@ -1,5 +1,5 @@
 #Importing the necessary libraries. Lines 2-6.
-import time
+
 import requests
 from PIL import Image
 import streamlit as st
