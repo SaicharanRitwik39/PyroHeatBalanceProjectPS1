@@ -50,8 +50,8 @@ with col1:
          st.write("a) **Intro:** This is the page that you saw as soon as you opened the web application.") 
          st.write("b) **User Notes:** The page you are on right now!")   
          st.write("c) **Dashboard:** This is the **focal page** of the web app. All the **calculations** and **metrics** will be displayed on this page.") 
-         st.write("d) **Demo:** In case you have any queries about the functionalities of this app, I have created a YouTube video to help you out.")
-         st.write("e) **Contact:** I have added a form on this page for taking further suggestions and inputs from you... :smiley:!")
+         
+         st.write("d) **Contact:** I have added a form on this page for taking further suggestions and inputs from you... :smiley:!")
          st.write("***")   
          
             
